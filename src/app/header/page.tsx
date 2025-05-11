@@ -6,8 +6,8 @@ export default function Header() {
   <nav>
     <div className="nav-buttons">
       <Link href="/"><button className="login">Inicio</button></Link>
-      <a href="/about"><button className="login">Sobre mí</button></a>
-      <a href="/contacto"><button className="login">Contacto</button></a>
+      <Link href="/about"><button className="login">Sobre mí</button></Link>
+      <Link href="/contacto"><button className="login">Contacto</button></Link>
       
     </div>
     <div className="nav-center">
