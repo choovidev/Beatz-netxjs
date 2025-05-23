@@ -8,6 +8,7 @@ export default function Header() {
       <Link href="/"><button className="login">Inicio</button></Link>
       <Link href="/about"><button className="login">Sobre mí</button></Link>
       <Link href="/contacto"><button className="login">Contacto</button></Link>
+      <Link href="/blog"><button className="login">Blog</button></Link>
       
     </div>
     <div className="nav-center">

@@ -43,6 +43,12 @@
 │       ├── about
 │       │   ├── page.tsx
 │       │   └── page.module.css
+│       ├── blog
+│       │   ├── [id]
+│       │   │     ├── page.module.css
+│       │   │     ├── page.tsx
+│       │   ├── page.tsx
+│       │   └── page.module.css
 │       ├── contacto
 │       │   └── page.tsx
 │       ├── header
